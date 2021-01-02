@@ -1,0 +1,1 @@
+Let's write a function that is called on button click and toggles the color theme of the page.
